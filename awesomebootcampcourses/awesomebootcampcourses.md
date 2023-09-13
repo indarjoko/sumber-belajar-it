@@ -10,6 +10,7 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 [Buildwithangga](https://buildwithangga.com) : Kursus online dan bootcamp yang membahas seputar desain UI/UX, grafis, ilustrasi dan 3D serta front-end, back-end bahkan full stack dengan materi kurikulum terbaru dan sesuai industri dan dengan menggunakan metode pengerjaan proyek nyata. Beberapa kelas disediakan secara gratis untuk mempelajari fundamental.
 
 
+
 ## Design
 
 [Hey Academy](https://heyacademy.co/) : Platform yang menyediakan materi sesuai industri dan spesifik terkait kursus UI/UX Design dan Low-code Development. Materi dibuat oleh instruktur profesional dari salah satu studio desain besar di Indonesia dan dengan biaya yang terjangkau.
@@ -39,3 +40,8 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 [Sekolah Siber](https://sekolahsiber.com/) : Platfrom kursus online yang menyediakan materi seputar cyber security, hacking dan bug bounty dengan materi terbaru dan biaya relaitf terjangkau dan difasilitasi oleh mentor yang sudah berpengalaman dan tersertifikasi sesuai kemampuan.
 
 [Jadi Hacker](https://jadihacker.id/) : Sebuah platform dengan materi terbaru sesuai industri terkait cyber security dan hacking dengan dipandu oleh instruktur handal dan professional dengan biaya terjangkau.
+
+
+## Quality Assurance
+
+[Kepo Aja Dulu](https://www.linkedin.com/company/kepo-aja-dulu/about/) : Motede kursus online secara online selama beberapa minggu yang membahas materi seputar software quality assurance dengan instruktur handal dan biaya terjangkau bahkan gratis.
