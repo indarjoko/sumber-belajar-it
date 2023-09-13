@@ -7,12 +7,19 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Buildwithangga](https://buildwithangga.com) : Kursus online dan bootcamp yang membahas seputar desain UI/UX, grafis, ilustrasi dan 3D dengan materi kurikulum terbaru dan sesuai industri dan dengan menggunakan metode pengerjaan proyek nyata. Beberapa kelas disediakan secara gratis untuk mempelajari fundamental.
 
+[Hey Academy](https://heyacademy.co/) : Platform yang menyediakan materi sesuai industri dan spesifik terkait kursus UI/UX Design dan Low-code Development. Materi dibuat oleh instruktur profesional dari salah satu studio desain besar di Indonesia dan dengan biaya yang terjangkau.
+
+[Rubrik Grafis](https://rubrikgrafis.com/) : Platform kursus online dengan berbagai materi terbaru terkait desain grafis, ilustrasi, UI/UX, logo, dll. dengan biaya realtif terjangkau.
+
+[Hay Academy](https://hayacademy.net/) : Platform kursus online yang berisi tentang materi desain grafis, ilustrasi, pemograman sederhana dengan dipandu oleh instruktur berpengalaman dalam dunia desain grafis dan freelance.
 
 ## Programming
 
 [Buildwithangga](https://buildwithangga.com) : Kursus online dan bootcamp yang membahas seputar pemograman dengan materi kurikulum terbaru dan sesuai industri dan dengan menggunakan metode pengerjaan proyek nyata. Beberapa kelas disediakan secara gratis untuk mempelajari fundamental.
 
 [Programmer Zaman Now](https://www.programmerzamannow.com/) : Platfrom lengkap yang menyediakan berbagai materi seputar pemograman dengan materi yang dapat diikuti oleh pemula sampai mahir dan biaya yang sangat terjangkau didukung oleh instruktur berpengalaman.
+
+[Codepolitan](https://codepolitan.com/) : Platform yang menyediakan materi terbaru dan sesuai industri terkait front end, back end bahkan full stack yang semakin berkembang berkat komunitas dan dipandu oleh instruktur pofesional dan biaya kursus yang murah dan terjangkau.
 
 ## DevSecOps
 
