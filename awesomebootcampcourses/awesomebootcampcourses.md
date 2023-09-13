@@ -44,4 +44,4 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 ## Quality Assurance
 
-[Kepo Aja Dulu](https://www.linkedin.com/company/kepo-aja-dulu/about/) : Motede kursus online secara online selama beberapa minggu yang membahas materi seputar software quality assurance dengan instruktur handal dan biaya terjangkau bahkan gratis.
+[Kepo Aja Dulu](https://www.linkedin.com/company/kepo-aja-dulu/about/) : Motede kursus online selama beberapa minggu yang membahas materi seputar software quality assurance dengan instruktur handal dan biaya terjangkau bahkan gratis.
