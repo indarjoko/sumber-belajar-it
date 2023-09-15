@@ -27,6 +27,8 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Codepolitan](https://codepolitan.com/) : Platform yang menyediakan materi terbaru dan sesuai industri terkait front end, back end bahkan full stack yang semakin berkembang berkat komunitas dan dipandu oleh instruktur pofesional dan biaya kursus yang murah dan terjangkau.
 
+[Sekolah Koding Sko.Dev](https://app.sko.dev/) : Platform belajar tentang pemograman yang mayoritas gratis yang dibuat oleh instruktur profesional berpengalaman lebih dari 10 tahun dan terdapat fitur diskusi komunitas dengan member lain supaya mendapat tambahan insight baru.
+
 [Nusendra - Coding Mastery](https://www.youtube.com/@NgodingMastery) : Website yang berisi kumpulan tutorial web development yang bisa ditonton via Youtube dan berbagai informasi tutorial berupa teks pada website serta ditambah slide yang berisi materi presentasi seputar web development yang dibuat oleh mentor yang berpengalaman. 
 
 ## DevSecOps
