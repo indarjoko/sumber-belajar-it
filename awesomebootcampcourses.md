@@ -20,6 +20,9 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 [Hay Academy](https://hayacademy.net/) : Platform kursus online yang berisi tentang materi desain grafis, ilustrasi, pemograman sederhana dengan dipandu oleh instruktur berpengalaman dalam dunia desain grafis dan freelance.
 
 
+## Animasi
+[Asta Digital](https://astadigital.net/) : Sebuah platform belajar online untuk mendalami dalam membuat berbagai jenis animasi dengan praktek langsung membuat project dan dengan biaya yang cukup terjangkau.
+
 
 ## Programming
 
