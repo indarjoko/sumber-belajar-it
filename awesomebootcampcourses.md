@@ -21,6 +21,7 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 
 ## Animasi
+
 [Asta Digital](https://astadigital.net/) : Sebuah platform belajar online untuk mendalami dalam membuat berbagai jenis animasi dengan praktek langsung membuat project dan dengan biaya yang cukup terjangkau.
 
 
@@ -32,7 +33,7 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Sekolah Koding Sko.Dev](https://app.sko.dev/) : Platform belajar tentang pemograman yang mayoritas gratis yang dibuat oleh instruktur profesional berpengalaman lebih dari 10 tahun dan terdapat fitur diskusi komunitas dengan member lain supaya mendapat tambahan insight baru.
 
-[Nusendra - Coding Mastery](https://www.youtube.com/@NgodingMastery) : Website yang berisi kumpulan tutorial web development yang bisa ditonton via Youtube dan berbagai informasi tutorial berupa teks pada website serta ditambah slide yang berisi materi presentasi seputar web development yang dibuat oleh mentor yang berpengalaman. 
+[Nusendra - Coding Mastery](https://nusendra.com/) : Website yang berisi kumpulan tutorial web development yang bisa ditonton via Youtube dan berbagai informasi tutorial berupa teks pada website serta ditambah slide yang berisi materi presentasi seputar web development yang dibuat oleh mentor yang berpengalaman. 
 
 ## DevSecOps
 
