@@ -47,6 +47,8 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Jadi Hacker](https://jadihacker.id/) : Sebuah platform dengan materi terbaru sesuai industri terkait cyber security dan hacking dengan dipandu oleh instruktur handal dan professional dengan biaya terjangkau.
 
+[Cyberkarta](https://www.cyberkarta.com/) : Pltform yang menyediakan kursus online dengan materi terkait hacking & cyber security dan dibuat oleh instruktur handal dan profesional dan tentunya dengan biaya yang sangat terjangkau.
+
 
 ## Quality Assurance
 
