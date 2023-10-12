@@ -53,3 +53,8 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 ## Quality Assurance
 
 [Kepo Aja Dulu](https://www.linkedin.com/company/kepo-aja-dulu/about/) : Motede kursus online selama beberapa minggu yang membahas materi seputar software quality assurance dengan instruktur handal dan biaya terjangkau bahkan gratis.
+
+
+## Data Science
+
+[DQLab](https://dqlab.id/) : platform khusus untuk belajar online tentang data science dan AI dengan materi update dan mentor profesional dan terdapat bootcamp untuk mempelejari fundamental dengan biaya terjangkau.
