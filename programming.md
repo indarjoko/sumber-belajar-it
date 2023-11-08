@@ -5,6 +5,8 @@ Berisi tentang kumpulan informasi tutorial programming dari dasar atau fundament
 
 ### Website
 
+[SkoDev](https://sko.dev/) : Website yang menyediakan informasi artikel pemrograman dan tutorial teknis pemrograman secara gratis serta terdapat forum diskusi bersama komunitas pemrograman
+
 [CodeSaya](https://codesaya.com/) : Platform belajar pemograman yang sangat interaktif karena tidak hanya memahami teori saja tapi bisa langsung mencoba praktek live coding di plafrom ini, semua konten disini mayoritas gratis dan salah satu kelebihan adanya fitur komunitas terdiri dari diskusi dan grup yang berfungsi sebagai wadah jika ada yang kesulitan mempelajari materi.
 
 [Dunia Ilkom](https://www.duniailkom.com/) : Platform belajar online seputar pemograman yang disusun secara terstruktur yang berupa teks. Hampir terdapat tutorial semua bahasa pemograman yang banyak dipakai pada dunia kerja dan semua materi dapat diakses secara gratis. Jika ingin mendapat panduan lebih lengkap dan terarah bisa membeli ebook dengan biaya yang sangat terjangkau.
@@ -16,6 +18,8 @@ Berisi tentang kumpulan informasi tutorial programming dari dasar atau fundament
 ### Youtube
 
 [Web Programming Unpas](https://www.youtube.com/c/webprogrammingunpas) : Channel Youtube yang dibuat oleh dosen TI salah satu universitas swasta di Bandung dengan tujuan memudahkan siapa saja untuk belajar pemograman mulai dari fundamental sampai dengan mahir dengan target atau proyek membuat sesuatu. Selain membahas hal teknis tentang pemograman terkadang juga membahas hasil proyek dari para subscriber channel ini. Banyak orang terbantu dengan channel ini karena materi menggunakan bahasa sederhana sehingga sangat mudah dimengerti dan diikuti.
+
+[Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow/about): Channel youtube yang dibuat oleh profesional dveeloper, membahas secara mendalam tentang pemograman mulai dari bahasan fundamental dan pondasi menjadi programmer.
 
 [Reza Ola](https://www.youtube.com/c/rezaola) : Channel yang dibuat oleh seorang software developer dan praktisi SEO yang sudah berpengalaman. Pembahasan paling banyak tentang bahasa pemograman JavaScript dan dikemas dengan bahasa dan langkah yang mudah dimengerti dan diikuti. Cocok sebagai panduan bagi pemula yang baru belajar pemograman.
 
