@@ -49,6 +49,8 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Cyberkarta](https://www.cyberkarta.com/) : Pltform yang menyediakan kursus online dengan materi terkait hacking & cyber security dan dibuat oleh instruktur handal dan profesional dan tentunya dengan biaya yang sangat terjangkau.
 
+[Cyber Academy](https://www.cyberacademy.id/) : platform belajar online membahas materi tentang cyber security dan penetration testing dengan biaya yang sangat terjangkau.
+
 
 ## Quality Assurance
 
