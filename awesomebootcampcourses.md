@@ -9,7 +9,7 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Buildwithangga](https://buildwithangga.com) : Kursus online dan bootcamp yang membahas seputar desain UI/UX, grafis, ilustrasi dan 3D serta front-end, back-end bahkan full stack dengan materi kurikulum terbaru dan sesuai industri dan dengan menggunakan metode pengerjaan proyek nyata. Beberapa kelas disediakan secara gratis untuk mempelajari fundamental.
 
-[Digitalent](https://digitalent.kominfo.go.id/) : Platform yang menyediakan materi terbaru tentang semua bidang dan menyediakan materi sesuai kategori peminat dan dengan biaya gratis yan difasilitasi oleh Kominfo.
+[Digitalent](https://digitalent.kominfo.go.id/) : Platform yang menyediakan materi terbaru tentang semua bidang dan menyediakan materi sesuai kategori peminat dan dengan biaya gratis yang difasilitasi oleh Kominfo.
 
 ## Design
 
