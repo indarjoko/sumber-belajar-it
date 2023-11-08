@@ -9,3 +9,6 @@ Berisi tentang kumpulan informasi tutorial menjadi IT support dari dasar atau fu
 
 ### Youtube
 
+[Harry Shares](https://www.youtube.com/@HarryShares/about) : Channel youtube yang dikelola oleh parktisi di bidang IT yang membahas seputar tutorial, tips & trik tentang windows, android dan teknologi. 
+
+[Logistech ID](https://www.youtube.com/@Logistech_iD/about) : Channel youtube yang dibuat oleh seorang ahli di bidang IT yang membahas cara memecahkan masalah terkait hardware dan software laptop, PC dan perangkat IT lainnya.
