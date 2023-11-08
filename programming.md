@@ -7,6 +7,9 @@ Berisi tentang kumpulan informasi tutorial programming dari dasar atau fundament
 
 [CodeSaya](https://codesaya.com/) : Platform belajar pemograman yang sangat interaktif karena tidak hanya memahami teori saja tapi bisa langsung mencoba praktek live coding di plafrom ini, semua konten disini mayoritas gratis dan salah satu kelebihan adanya fitur komunitas terdiri dari diskusi dan grup yang berfungsi sebagai wadah jika ada yang kesulitan mempelajari materi.
 
+[Dunia Ilkom](https://www.duniailkom.com/) : Platform belajar online seputar pemograman yang disusun secara terstruktur yang berupa teks. Hampir terdapat tutorial semua bahasa pemograman yang banyak dipakai pada dunia kerja dan semua materi dapat diakses secara gratis. Jika ingin mendapat panduan lebih lengkap dan terarah bisa membeli ebook dengan biaya yang sangat terjangkau.
+
+[Ilmu Website](https://www.ilmuwebsite.com/) : Platform belajar online terkait pemograman berupa tutorial teks dan panduan lebih lanjut tanpa mengeluarkan biaya.
 
 ### Youtube
 
