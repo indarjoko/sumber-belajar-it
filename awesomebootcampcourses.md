@@ -15,7 +15,7 @@ Berisi daftar boootcamp & kursus online dengan materi sesuai standar industri te
 
 [Hey Academy](https://heyacademy.co/) : Platform yang menyediakan materi sesuai industri dan spesifik terkait kursus UI/UX Design dan Low-code Development. Materi dibuat oleh instruktur profesional dari salah satu studio desain besar di Indonesia dan dengan biaya yang terjangkau.
 
-[Rubrik Grafis](https://rubrikgrafis.com/) : Platform kursus online dengan berbagai materi terbaru terkait desain grafis, ilustrasi, UI/UX, logo, dll. dengan biaya realtif terjangkau.
+[Rubrik Grafis](https://rubrikgrafis.com/) : Platform kursus online dengan berbagai materi terbaru terkait desain grafis, ilustrasi, UI/UX, logo, dll. dengan biaya relatif terjangkau.
 
 [Hay Academy](https://hayacademy.net/) : Platform kursus online yang berisi tentang materi desain grafis, ilustrasi, pemograman sederhana dengan dipandu oleh instruktur berpengalaman dalam dunia desain grafis dan freelance.
 
