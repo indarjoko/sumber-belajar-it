@@ -13,6 +13,10 @@ Berisi tentang kumpulan informasi tutorial menjadi IT support dari dasar atau fu
 
 [Jagat Review](https://www.jagatreview.com/about/) : Website yang berisi tentang informasi lengkap dan mendalam terkait teknologi terbaru, gadget seperti laptop, smartphone, dan perangkat IT lainnya.
 
+[App Key](https://appkey.id/) : Website yang berisi informasi tentang pemograman, desain, dan bisnis teknologi. Terdapat pula berbagai tutorial tentang pemograman.
+
+[Info Komputer](https://infokomputer.grid.id/) : Website yang menyajikan informasi seputar teknologi sebagai panduan bagi perusahaan dan pemerintahan Indonesia dalam melakukan transformasi digital.
+
 ### Youtube
 
 [Harry Shares](https://www.youtube.com/@HarryShares/about) : Channel youtube yang dikelola oleh parktisi di bidang IT yang membahas seputar tutorial, tips & trik tentang windows, android dan teknologi. 
