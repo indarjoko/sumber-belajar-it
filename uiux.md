@@ -10,3 +10,8 @@ Berisi tentang kumpulan informasi tutorial UI/UX design dari dasar atau fundamen
 [The Thinker Design](https://thethinker.design) : Website berbasis komunitas UI/UX design yang bisa dimanfaatkan untuk menambah pengetahuan, berkonsultasi dengan mentor berpengalaman dan berbagi hasil karya kepada member lain.
 
 [Halodesigners Forum](https://forum.halodesigners.com/home) : Website forum yang dibuat untuk berbagi informasi terkait UI/UX dari para member.
+
+
+### Youtube
+
+[Kukuh Aldy](https://www.youtube.com/@MasKukuhAldy/featured) : Channel yang dibuat oleh seorang ahli UI/UX Design yang bekerja pada perusahaan luar negeri secara remote dengan berbagi pengetahuan dan pengalaman dalam bekerja.
