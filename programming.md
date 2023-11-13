@@ -21,6 +21,8 @@ Berisi tentang kumpulan informasi tutorial programming dari dasar atau fundament
 
 [Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow/about): Channel youtube yang dibuat oleh profesional dveeloper, membahas secara mendalam tentang pemograman mulai dari bahasan fundamental dan pondasi menjadi programmer.
 
+[Kelas Terbuka](https://www.youtube.com/@KelasTerbuka/featured) : Channel khusus yang akan membahas teknik pemrograman secara umum dan teknik komputasi serta pengolahan data secara khusus. Channel ini diharapkan dapat mengisi kekosongan implementasi praktis pada materi perguruan tinggi di Indonesia.
+
 [Reza Ola](https://www.youtube.com/c/rezaola) : Channel yang dibuat oleh seorang software developer dan praktisi SEO yang sudah berpengalaman. Pembahasan paling banyak tentang bahasa pemograman JavaScript dan dikemas dengan bahasa dan langkah yang mudah dimengerti dan diikuti. Cocok sebagai panduan bagi pemula yang baru belajar pemograman.
 
 [Nauval](https://www.youtube.com/@mhdnauvalazhar) : Channel yang dibuat seorang Fullstack Developer berpengalaman dan membahas HTML, CSS, Javascript dan terkadang dengan durasi lama karena membahas dari fundamental sampai membuat proyek jadi.
