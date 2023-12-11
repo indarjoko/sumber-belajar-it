@@ -14,5 +14,5 @@ Berisi tentang kumpulan informasi tutorial Development, Security and Operations 
 [Biznet Gio News](https://www.biznetgio.com/news) : Website yang berisi terkait update informasi terbaru seputar teknologi mulai dari hosting hingga cloud computing.
 
 
-### Youtube
+
 
