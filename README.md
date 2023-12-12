@@ -17,5 +17,5 @@ Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman d
 </details>
 <details>
     <summary><b><font size="4" style="line-height:2">Kenapa Repositori ini dibuat?</b></font></summary>
-    <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas dan panduan yang baik dan terarah</p>
+    <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas dan panduan yang baik serat terarah</p>
 </details>
