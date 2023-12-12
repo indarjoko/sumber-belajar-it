@@ -1,4 +1,4 @@
-# Hello Learning Warriors
+# Hello Learning Warriors!
 
 Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman dan teknologi, dengan tujuan sebagai pusat sumber belajar IT bagi siapapun yang memiliki niat dan usaha untuk menjadi ahli di salah satu bidang IT. 
 <br></br>Informasi disusun berupa kumpulan link terkait kelas online, bootcamp dan sosial media channel yang mayoritas gratis akses sampai berbayar tapi sebisa mungkin masih masuk kategori murah atau terjangkau oleh semua kalangan. 
