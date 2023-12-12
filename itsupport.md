@@ -17,6 +17,8 @@ Berisi tentang kumpulan informasi tutorial menjadi IT support dari dasar atau fu
 
 [Info Komputer](https://infokomputer.grid.id/) : Website yang menyajikan informasi seputar teknologi sebagai panduan bagi perusahaan dan pemerintahan Indonesia dalam melakukan transformasi digital.
 
+[WinPoin](https://winpoin.com/) : Portal Windows terbesar di Indonesia yang membahas berbagai hal seputar Windows, PC, laptop, dan penggunaannya untuk memudahkan hidup.
+
 [Badr Interactive Insight](https://badr.co.id/insight/) : Website yang berisi artikel, infografis dan buku panduan digital terkait tekonlogi terbaru.
 
 ### Youtube
