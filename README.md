@@ -5,6 +5,6 @@ Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman d
 <br></br>Supaya lebih fokus dan teratur mendapatkan informasi belajar, maka setiap bidang di IT dapat dikases per folder sesuai minat. 
 <br></br>Mari kita berbagi dan berkontribusi supaya lebih banyak orang yang dapat menikmati sumber belajar IT yang murah dan terjangkau. Sehingga semakin banyak menghasilkan talenta IT yang berkualitas di negeri ini. Semoga repositori ini bermanfaat.
 
-> 🗒️ Catatan: Proses pengumpulan informasi pada repositori ini memakan waktu 3-5 tahun ke belakang yang didapat dari website, media sosial, forum, komunitas, webinar dan lain lain.
+> 🗒️ Catatan: Proses pengumpulan informasi pada repositori ini memakan waktu sekitar 5 tahun ke belakang yang didapat dari website, media sosial, forum, komunitas, webinar dan lain lain.
 
 > ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  menggali informasi berbagai bidang di dunia IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
