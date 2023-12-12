@@ -10,7 +10,7 @@ Repositori ini berisi tentang kumpulan sumber belajar IT mulai dari pemrograman,
 > ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  mendapatkan informasi berbagai bidang di dunia IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
 
 
-## FAQ
+## Soal Sering Ditanya
 <details>
     <summary><b><font size="4">Repositori ini berisi tentang apa?</b></font></summary>
     <p>Repositori ini berisi tentang informasi panduan belajar dunia IT seputar pemrograman, keamanan, desain dan teknologi</p>
