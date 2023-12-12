@@ -11,8 +11,11 @@ Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman d
 
 
 ## FAQ
-
 <details>
-    <summary><b><font size="4">Repositori ini berisi tentang apa?</b></font></summary>
+    <summary><b><font size="4" style="line-height:3">Repositori ini berisi tentang apa?</b></font></summary>
     <p>Repositori ini berisi tentang informasi panduan belajatr IT seputar desain, pemrograman dan teknologi</p>
+</details>
+<details>
+    <summary><b><font size="4" style="line-height:2">Kenapa Repositori ini dibuat?</b></font></summary>
+    <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas dan panduan yang baik dan terarah</p>
 </details>
