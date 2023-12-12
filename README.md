@@ -21,5 +21,5 @@ Repositori ini berisi tentang kumpulan sumber belajar IT mulai dari pemrograman,
 </details>
 <details>
     <summary><b><font size="4" style="line-height:2">Kenapa dibuat dalam bentuk repositori GitHub bukan berbentuk <i>website?</i></b></font></summary>
-    <p>Supaya mudah dalam <i>maintenance</i>, <i>edit</i>, dan melihat <i>history</i> setiap perubahan atau penambahan informasi serta supaya banyak orang yang dapat berkontribusi yang dapat berfungsi sebagai portfolio ketika ikut andil dalam membagikan informasi bermanfaat untuk orang lain</p>
+    <p>Supaya mudah dalam <i>maintenance</i>, <i>edit</i>, dan melihat <i>history</i> setiap perubahan atau penambahan informasi serta supaya banyak orang yang dapat berkontribusi yang dapat berfungsi sebagai portfolio ketika ikut andil dalam membagikan informasi yang bermanfaat untuk orang lain</p>
 </details>
