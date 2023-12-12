@@ -6,4 +6,4 @@ Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman d
 
 > 🗒️ Catatan: Proses pengumpulan informasi pada repositori ini memakan waktu 3-5 tahun ke belakang yang didapat dari website, media sosial, forum, komunitas, webinar dan lain lain.
 
-> ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  menggali informasi di bidang IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
+> ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  menggali informasi berbagai bidang di dunia IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
