@@ -5,17 +5,17 @@ Repositori ini berisi tentang sumber belajar IT mulai dari desain, pemrograman d
 <br></br>Supaya lebih fokus dan teratur mendapatkan informasi belajar, maka setiap bidang di IT dapat diakses per kategori sesuai minat. 
 <br></br>Mari kita berbagi dan berkontribusi supaya lebih banyak orang yang dapat menikmati sumber belajar IT yang murah dan terjangkau. Sehingga semakin banyak menghasilkan talenta IT yang berkualitas di negeri ini. Semoga repositori ini bermanfaat.
 
-> 🗒️ Catatan: Proses pengumpulan informasi pada repositori ini memakan waktu sekitar 5 tahun ke belakang yang didapat dari website, media sosial, forum, komunitas, webinar dan lain lain.
+> 🗒️ Catatan: Proses pengumpulan informasi pada repositori ini memakan waktu sekitar 5 tahun ke belakang yang diperoleh dari website, media sosial, forum, komunitas, webinar dan lain lain.
 
-> ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  menggali informasi berbagai bidang di dunia IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
+> ⚠️ Perhatian : Repositori ini hanya berfungsi sebagai wadah belajar untuk  mendapatkan informasi berbagai bidang di dunia IT. Hasil yang didapat tergantung niat, fokus dan usaha yang giat dalam mempelajari dan mendalami bidang yang diminati.
 
 
 ## FAQ
 <details>
-    <summary><b><font size="4" style="line-height:3">Repositori ini berisi tentang apa?</b></font></summary>
-    <p>Repositori ini berisi tentang informasi panduan belajatr IT seputar desain, pemrograman dan teknologi</p>
+    <summary><b><font size="4">Repositori ini berisi tentang apa?</b></font></summary>
+    <p>Repositori ini berisi tentang informasi panduan belajar dunia IT seputar desain, pemrograman dan teknologi</p>
 </details>
 <details>
-    <summary><b><font size="4" style="line-height:2">Kenapa Repositori ini dibuat?</b></font></summary>
-    <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas dan panduan yang baik serat terarah</p>
+    <summary><b><font size="4" style="line-height:2">Tujuan Repositori ini dibuat?</b></font></summary>
+    <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas serta menjadi pusat panduan yang baik serta terarah, kedepanya semoga banyak terciptanya talenta di bidang IT yang berkualitas dan berkompeten untuk dapat memajukan IT di Indonesia</p>
 </details>
