@@ -20,6 +20,6 @@ Repositori ini berisi tentang kumpulan sumber belajar IT mulai dari pemrograman,
     <p>Karena sulitnya mencari dan mendapatkan informasi yang relevan terkait jalur belajar bidang IT yang sangat luas serta menjadi pusat panduan yang baik serta terarah, kedepanya semoga banyak terciptanya talenta di bidang IT yang berkualitas dan berkompeten untuk dapat memajukan IT di Indonesia</p>
 </details>
 <details>
-    <summary><b><font size="4" style="line-height:2">Kenapa dibuat dalam bentuk repositori GitHub bukan berbentuk website</b></font></summary>
+    <summary><b><font size="4" style="line-height:2">Kenapa dibuat dalam bentuk repositori GitHub bukan berbentuk <i>website?</i></b></font></summary>
     <p>Supaya mudah dalam <i>maintenance</i>, <i>edit</i>, dan melihat <i>history</i> setiap perubahan atau penambahan informasi serta supaya banyak orang yang dapat berkontribusi yang dapat berfungsi sebagai portfolio ketika ikut andil dalam membagikan informasi bermanfaat untuk orang lain</p>
 </details>
