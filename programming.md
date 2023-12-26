@@ -19,7 +19,11 @@ Berisi tentang kumpulan informasi tutorial programming dari dasar atau fundament
 
 [Web Programming Unpas](https://www.youtube.com/c/webprogrammingunpas) : Channel Youtube yang dibuat oleh dosen TI salah satu universitas swasta di Bandung dengan tujuan memudahkan siapa saja untuk belajar pemograman mulai dari fundamental sampai dengan mahir dengan target atau proyek membuat sesuatu. Selain membahas hal teknis tentang pemograman terkadang juga membahas hasil proyek dari para subscriber channel ini. Banyak orang terbantu dengan channel ini karena materi menggunakan bahasa sederhana sehingga sangat mudah dimengerti dan diikuti.
 
-[Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow/about): Channel youtube yang dibuat oleh profesional dveeloper, membahas secara mendalam tentang pemograman mulai dari bahasan fundamental dan pondasi menjadi programmer.
+[Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow/about): Channel youtube yang dibuat oleh profesional developer, membahas secara mendalam tentang pemograman mulai dari bahasan fundamental dan pondasi menjadi programmer.
+
+[Dea Afrizal](https://www.youtube.com/@deaafrizal) : Sebuah channel yang dibuat oleh praktisi pemograman website yang berpindah profesi dari dunia ke kimia ke IT dengan membahas seputar pemrograman khususnya website mulai dari tips & trik, fundamental sampai pembuatan proyek dan mendengarkan curhatan dari pengalaman beberapa developer dalam dunia industri. Pembahasan menggunakan bahasa yang santai, sederhana namun mudah dimengerti.
+
+[Erico Darmawan](https://www.youtube.com/c/ericodarmawanhandoyo) : Channel yang dibuat oleh seorang dosen pemrograman yang berisi tentang fundamental pemrograman aplikasi menggunakan flutter.
 
 [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka/featured) : Channel khusus yang akan membahas teknik pemrograman secara umum dan teknik komputasi serta pengolahan data secara khusus. Channel ini diharapkan dapat mengisi kekosongan implementasi praktis pada materi perguruan tinggi di Indonesia.
 
